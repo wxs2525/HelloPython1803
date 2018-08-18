@@ -2,7 +2,8 @@
 
 
 def get_data():
-    print('别睡觉')
+    print('小伙子别打呼噜')
+
 
 
 if __name__ == '__main__':
